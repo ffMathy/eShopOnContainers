@@ -8,6 +8,7 @@ Sample .NET Core reference application, powered by Microsoft, based on a simplif
 
 ![](img/eshop-webmvc-app-screenshot.png)
 
+
 ## Azure DevOps - Build Status
 
 | Image | Status | Image | Status |
