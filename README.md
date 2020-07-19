@@ -10,6 +10,7 @@ Sample .NET Core reference application, powered by Microsoft, based on a simplif
 
 ## Azure DevOps - Build Status
 
+
 | Image | Status | Image | Status |
 | ------------- | ------------- | ------------- | ------------- |
 | Api Gateway (base) |  [![Api Gateways base image](https://msftdevtools.visualstudio.com/eShopOnContainers/_apis/build/status/microservices/apigws?branchName=dev)](https://msftdevtools.visualstudio.com/eShopOnContainers/_build/latest?definitionId=201&branchName=dev) | Shopping Aggregator (Web) | [![Web Shopping Aggregator](https://msftdevtools.visualstudio.com/eShopOnContainers/_apis/build/status/microservices/web-shopping-agg?branchName=dev)](https://msftdevtools.visualstudio.com/eShopOnContainers/_build/latest?definitionId=206&branchName=dev) |
